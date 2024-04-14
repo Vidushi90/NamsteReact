@@ -1,0 +1,30 @@
+{
+  "name": "namstereact",
+  "version": "1.0.0",
+  "description": "This is First React project",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vidushi90/NamsteReact.git"
+  },
+  "keywords": [],
+  "author": "Vidushi Bisen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vidushi90/NamsteReact/issues"
+  },
+  "homepage": "https://github.com/Vidushi90/NamsteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
+}
