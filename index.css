@@ -47,3 +47,24 @@
    margin: 10px;
    cursor: pointer; 
 }
+
+.simmer-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.simmer-card {
+    width: 200px;
+    background-color: #716a6a1c;
+    height: 400px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.loginbtn {
+    cursor: pointer;
+}
+
+.filter {
+    display: flex;
+}

@@ -1,948 +1,745 @@
 const resList = [
     {
-        "id": "20918603",
-        "type": "restaurant",
-        "name": "Caffé Allora",
-        "url": "https://www.zomato.com/bangalore/caffé-allora-hebbal-bangalore?zrp_bid=4081802&zrp_pid=14&zrp_cid=12988069",
-        "imageUrl": "https://b.zmtcdn.com/data/pictures/3/20918603/27c55abd8c2c929c02af259af0154141.jpg",
-        "subtitleData": {
+        "info": {
+            "id": "10582",
+            "name": "Pizza Hut",
+            "cloudinaryImageId": "2b4f62d606d1b2bfba9ba9e5386fabb7",
+            "locality": "Maruti Nagar",
+            "areaName": "Maruti Nagar",
+            "costForTwo": "₹300 for two",
             "cuisines": [
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/pizza/",
-                    "name": "Pizza"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/italian/",
-                    "name": "Italian"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/pasta/",
-                    "name": "Pasta"
-                }
+                "Pizzas"
             ],
-            "locality": {
-                "text": "Phoenix Mall of Asia, Hebbal, Bengaluru, Bangalore",
-                "url": "https://www.zomato.com/bangalore/hebbal-restaurants"
-            }
-        },
-        "proOfferText": "Flat 15% OFF",
-        "rating": {
-            "has_fake_reviews": 0,
-            "aggregate_rating": "0",
-            "rating_text": "NEW",
-            "rating_subtitle": "Not rated",
-            "rating_color": "CBCBCB",
-            "votes": "2",
-            "subtext": "REVIEWS",
-            "is_new": true
-        },
-        "rating_new": {
-            "newlyOpenedObj": {
-                "text": "Newly Opened",
-                "color": "#FFFFFF",
-                "bgColor": "#F4A266",
-                "bgColorV2": {
-                    "type": "green",
-                    "tint": "100"
-                },
-                "subtitle": "OUTLET",
-                "ratingV2": "New"
+            "avgRating": 4.1,
+            "parentId": "721",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "5K+",
+            "sla": {
+                "deliveryTime": 37,
+                "lastMileTravel": 7.1,
+                "serviceability": "SERVICEABLE",
+                "slaString": "35-40 mins",
+                "lastMileTravelString": "7.1 km",
+                "iconType": "ICON_TYPE_EMPTY"
             },
-            "suspiciousReviewObj": null,
-            "ratings": {
-                "DINING": {
-                    "rating_type": "DINING",
-                    "rating": "",
-                    "reviewCount": "2",
-                    "reviewTextSmall": "2 Reviews",
-                    "subtext": "Does not offer Dining",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DINING",
-                    "sideSubTitle": "Dining Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDining": true
-                },
-                "DELIVERY": {
-                    "rating_type": "DELIVERY",
-                    "rating": "",
-                    "reviewCount": "0",
-                    "reviewTextSmall": "0 Reviews",
-                    "subtext": "Does not offer Delivery",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DELIVERY",
-                    "sideSubTitle": "Delivery Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDelivery": false
+            "availability": {
+                "nextCloseTime": "2024-05-05 06:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "aggregatedDiscountInfoV2": {},
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
                 }
-            }
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
         },
-        "isBookmarked": false,
-        "featuredLabel": "Featured",
-        "gold": {
-            "instant": 15,
-            "welcome_offer": false,
-            "gold_offer": true,
-            "text": "Flat",
-            "offerValue": "15% OFF",
-            "isGoldIcon": true
-        }
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/pizza-hut-maruti-nagar-bangalore-10582",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
     },
     {
-        "id": "21152034",
-        "type": "restaurant",
-        "name": "Biergarten",
-        "url": "https://www.zomato.com/bangalore/biergarten-bellandur-bangalore?zrp_bid=4059094&zrp_pid=14&zrp_cid=12963467",
-        "imageUrl": "https://b.zmtcdn.com/data/pictures/1/18313531/7ee472023f193755c10931def79526e1.jpg",
-        "subtitleData": {
+        "info": {
+            "id": "311441",
+            "name": "Sri upahara veg",
+            "cloudinaryImageId": "qrah8lakmrq4xaq9ysii",
+            "locality": "7th Sector",
+            "areaName": "HSR Layout",
+            "costForTwo": "₹200 for two",
             "cuisines": [
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/continental/",
-                    "name": "Continental"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzhcIl19Il0%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/european/",
-                    "name": "European"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTkzXCJdfSJd",
-                    "url": "https://www.zomato.com/bangalore/restaurants/bbq/",
-                    "name": "BBQ"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/chinese/",
-                    "name": "Chinese"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/asian/",
-                    "name": "Asian"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-                    "url": "https://www.zomato.com/bangalore/restaurants/beverages/",
-                    "name": "Beverages"
-                }
+                "South Indian"
             ],
-            "locality": {
-                "text": "Bellandur, Bangalore",
-                "url": "https://www.zomato.com/bangalore/bellandur-restaurants"
-            }
-        },
-        "proOfferText": "Flat 10% OFF",
-        "rating": {
-            "has_fake_reviews": 0,
-            "aggregate_rating": "3.9",
-            "rating_text": "NEW",
-            "rating_subtitle": "Good",
-            "rating_color": "9ACD32",
-            "votes": "13",
-            "subtext": "REVIEWS",
-            "is_new": true
-        },
-        "rating_new": {
-            "newlyOpenedObj": {
-                "text": "Newly Opened",
-                "color": "#FFFFFF",
-                "bgColor": "#F4A266",
-                "bgColorV2": {
-                    "type": "green",
-                    "tint": "100"
-                },
-                "subtitle": "OUTLET",
-                "ratingV2": "New"
+            "avgRating": 4.6,
+            "veg": true,
+            "parentId": "194705",
+            "avgRatingString": "4.6",
+            "totalRatingsString": "500+",
+            "sla": {
+                "deliveryTime": 35,
+                "lastMileTravel": 9.8,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-35 mins",
+                "lastMileTravelString": "9.8 km",
+                "iconType": "ICON_TYPE_EMPTY"
             },
-            "suspiciousReviewObj": null,
-            "ratings": {
-                "DINING": {
-                    "rating_type": "DINING",
-                    "rating": "",
-                    "reviewCount": "13",
-                    "reviewTextSmall": "13 Reviews",
-                    "subtext": "Does not offer Dining",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DINING",
-                    "sideSubTitle": "Dining Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDining": true
-                },
-                "DELIVERY": {
-                    "rating_type": "DELIVERY",
-                    "rating": "",
-                    "reviewCount": "0",
-                    "reviewTextSmall": "0 Reviews",
-                    "subtext": "Does not offer Delivery",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DELIVERY",
-                    "sideSubTitle": "Delivery Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDelivery": false
+            "availability": {
+                "nextCloseTime": "2024-05-05 13:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "aggregatedDiscountInfoV2": {},
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
                 }
-            }
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
         },
-        "isBookmarked": false,
-        "featuredLabel": "Featured",
-        "gold": {
-            "instant": 10,
-            "welcome_offer": false,
-            "gold_offer": true,
-            "text": "Flat",
-            "offerValue": "10% OFF",
-            "isGoldIcon": true
-        }
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/sri-upahara-veg-7th-sector-hsr-layout-bangalore-311441",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
     },
     {
-        "id": "20916935",
-        "type": "restaurant",
-        "name": "Eight",
-        "url": "https://www.zomato.com/bangalore/eight-hebbal-bangalore?zrp_bid=4081795&zrp_pid=14&zrp_cid=12988062",
-        "imageUrl": "https://b.zmtcdn.com/data/pictures/5/20916935/566309aa5c761acad1a4aeabab4c418c.jpg",
-        "subtitleData": {
+        "info": {
+            "id": "767216",
+            "name": "Boba Bhai",
+            "cloudinaryImageId": "b0471f6ae8ec204260755f55d35c626e",
+            "locality": "Rajajinagar",
+            "areaName": "West of Chord Road",
+            "costForTwo": "₹200 for two",
             "cuisines": [
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/asian/",
-                    "name": "Asian"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/chinese/",
-                    "name": "Chinese"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTVcIl19Il0%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/thai/",
-                    "name": "Thai"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNjBcIl19Il0%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/japanese/",
-                    "name": "Japanese"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTYyXCJdfSJd",
-                    "url": "https://www.zomato.com/bangalore/restaurants/peruvian/",
-                    "name": "Peruvian"
-                }
+                "Bubble Tea",
+                "Beverages",
+                "Burgers",
+                "Fast Food",
+                "Street Food"
             ],
-            "locality": {
-                "text": "Phoenix Mall of Asia, Hebbal, Bengaluru, Bangalore",
-                "url": "https://www.zomato.com/bangalore/hebbal-restaurants"
-            }
-        },
-        "proOfferText": "Flat 15% OFF",
-        "rating": {
-            "has_fake_reviews": 0,
-            "aggregate_rating": "4.2",
-            "rating_text": "NEW",
-            "rating_subtitle": "Very Good",
-            "rating_color": "5BA829",
-            "votes": "89",
-            "subtext": "REVIEWS",
-            "is_new": true
-        },
-        "rating_new": {
-            "newlyOpenedObj": {
-                "text": "Newly Opened",
-                "color": "#FFFFFF",
-                "bgColor": "#F4A266",
-                "bgColorV2": {
-                    "type": "green",
-                    "tint": "100"
-                },
-                "subtitle": "OUTLET",
-                "ratingV2": "New"
+            "avgRating": 4.2,
+            "parentId": "361235",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "100+",
+            "sla": {
+                "deliveryTime": 36,
+                "lastMileTravel": 5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "35-40 mins",
+                "lastMileTravelString": "5.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
             },
-            "suspiciousReviewObj": null,
-            "ratings": {
-                "DINING": {
-                    "rating_type": "DINING",
-                    "rating": "",
-                    "reviewCount": "89",
-                    "reviewTextSmall": "89 Reviews",
-                    "subtext": "Does not offer Dining",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DINING",
-                    "sideSubTitle": "Dining Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDining": true
-                },
-                "DELIVERY": {
-                    "rating_type": "DELIVERY",
-                    "rating": "",
-                    "reviewCount": "0",
-                    "reviewTextSmall": "0 Reviews",
-                    "subtext": "New on Delivery",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DELIVERY",
-                    "sideSubTitle": "Delivery Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDelivery": true
+            "availability": {
+                "nextCloseTime": "2024-05-12 00:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
                 }
-            }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
         },
-        "isBookmarked": false,
-        "featuredLabel": "Featured",
-        "gold": {
-            "instant": 15,
-            "welcome_offer": false,
-            "gold_offer": true,
-            "text": "Flat",
-            "offerValue": "15% OFF",
-            "isGoldIcon": true
-        }
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/boba-bhai-rajajinagar-west-of-chord-road-bangalore-767216",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
     },
     {
-        "id": "21111419",
-        "type": "restaurant",
-        "name": "Mezera Brewery & Kitchen",
-        "url": "https://www.zomato.com/bangalore/mezera-brewery-kitchen-jp-nagar-bangalore?zrp_bid=0&zrp_pid=14",
-        "imageUrl": "https://b.zmtcdn.com/data/pictures/9/21111419/6f632993ecfb30376e94dbbea97f408e.jpeg",
-        "subtitleData": {
+        "info": {
+            "id": "402728",
+            "name": "Sundae Everyday Ice Creams",
+            "cloudinaryImageId": "b9wksurrivnr0h6uibvf",
+            "locality": "Millars Road",
+            "areaName": "Vasanth Nagar",
+            "costForTwo": "₹150 for two",
             "cuisines": [
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/continental/",
-                    "name": "Continental"
-                }
+                "Beverages",
+                "Ice Cream",
+                "Desserts"
             ],
-            "locality": {
-                "text": "JP Nagar, Bangalore",
-                "url": "https://www.zomato.com/bangalore/jp-nagar-restaurants"
-            }
-        },
-        "proOfferText": "",
-        "rating": {
-            "has_fake_reviews": 0,
-            "aggregate_rating": "3.9",
-            "rating_text": "NEW",
-            "rating_subtitle": "Good",
-            "rating_color": "9ACD32",
-            "votes": "5",
-            "subtext": "REVIEWS",
-            "is_new": true
-        },
-        "rating_new": {
-            "newlyOpenedObj": {
-                "text": "Newly Opened",
-                "color": "#FFFFFF",
-                "bgColor": "#F4A266",
-                "bgColorV2": {
-                    "type": "green",
-                    "tint": "100"
-                },
-                "subtitle": "OUTLET",
-                "ratingV2": "New"
+            "avgRating": 2.9,
+            "veg": true,
+            "parentId": "20021",
+            "avgRatingString": "2.9",
+            "totalRatingsString": "100+",
+            "sla": {
+                "deliveryTime": 35,
+                "lastMileTravel": 6.4,
+                "serviceability": "SERVICEABLE",
+                "slaString": "35-40 mins",
+                "lastMileTravelString": "6.4 km",
+                "iconType": "ICON_TYPE_EMPTY"
             },
-            "suspiciousReviewObj": null,
-            "ratings": {
-                "DINING": {
-                    "rating_type": "DINING",
-                    "rating": "",
-                    "reviewCount": "5",
-                    "reviewTextSmall": "5 Reviews",
-                    "subtext": "Does not offer Dining",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DINING",
-                    "sideSubTitle": "Dining Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDining": true
-                },
-                "DELIVERY": {
-                    "rating_type": "DELIVERY",
-                    "rating": "",
-                    "reviewCount": "0",
-                    "reviewTextSmall": "0 Reviews",
-                    "subtext": "Does not offer Delivery",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DELIVERY",
-                    "sideSubTitle": "Delivery Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDelivery": false
+            "availability": {
+                "nextCloseTime": "2024-05-12 00:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
                 }
-            }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "60% OFF",
+                "subHeader": "UPTO ₹120"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
         },
-        "isBookmarked": false
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/sundae-everyday-ice-creams-millars-road-vasanth-nagar-bangalore-402728",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
     },
     {
-        "id": "21122311",
-        "type": "restaurant",
-        "name": "Prime Golf - Brewing & Golfing",
-        "url": "https://www.zomato.com/bangalore/prime-golf-brewing-golfing-seegehalli-bangalore?zrp_bid=0&zrp_pid=14",
-        "imageUrl": "https://b.zmtcdn.com/data/pictures/1/21122311/2940bfd0007ae108797de0315e1f5211.jpeg",
-        "subtitleData": {
+        "info": {
+            "id": "709119",
+            "name": "Irani Std. Tea",
+            "cloudinaryImageId": "1e756ee8d230b65d570f7e8e70f7062c",
+            "locality": "6th Main Rd",
+            "areaName": "Indiranagar",
+            "costForTwo": "₹200 for two",
             "cuisines": [
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAxOFwiXX0iXQ%3D%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/modern-indian/",
-                    "name": "Modern Indian"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-                    "url": "https://www.zomato.com/bangalore/restaurants/beverages/",
-                    "name": "Beverages"
-                }
+                "Beverages",
+                "Snacks",
+                "Fast Food"
             ],
-            "locality": {
-                "text": "Seegehalli, Bangalore",
-                "url": "https://www.zomato.com/bangalore/seegehalli-restaurants"
-            }
-        },
-        "proOfferText": "Flat 20% OFF",
-        "rating": {
-            "has_fake_reviews": 0,
-            "aggregate_rating": "4.1",
-            "rating_text": "NEW",
-            "rating_subtitle": "Very Good",
-            "rating_color": "5BA829",
-            "votes": "89",
-            "subtext": "REVIEWS",
-            "is_new": true
-        },
-        "rating_new": {
-            "newlyOpenedObj": {
-                "text": "Newly Opened",
-                "color": "#FFFFFF",
-                "bgColor": "#F4A266",
-                "bgColorV2": {
-                    "type": "green",
-                    "tint": "100"
-                },
-                "subtitle": "OUTLET",
-                "ratingV2": "New"
+            "avgRating": 4.1,
+            "parentId": "374583",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "100+",
+            "sla": {
+                "deliveryTime": 55,
+                "lastMileTravel": 9.8,
+                "serviceability": "SERVICEABLE",
+                "slaString": "50-55 mins",
+                "lastMileTravelString": "9.8 km",
+                "iconType": "ICON_TYPE_EMPTY"
             },
-            "suspiciousReviewObj": null,
-            "ratings": {
-                "DINING": {
-                    "rating_type": "DINING",
-                    "rating": "",
-                    "reviewCount": "89",
-                    "reviewTextSmall": "89 Reviews",
-                    "subtext": "Does not offer Dining",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DINING",
-                    "sideSubTitle": "Dining Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDining": true
-                },
-                "DELIVERY": {
-                    "rating_type": "DELIVERY",
-                    "rating": "",
-                    "reviewCount": "0",
-                    "reviewTextSmall": "0 Reviews",
-                    "subtext": "Does not offer Delivery",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DELIVERY",
-                    "sideSubTitle": "Delivery Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDelivery": false
+            "availability": {
+                "nextCloseTime": "2024-05-12 00:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
                 }
-            }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "20% OFF",
+                "subHeader": "UPTO ₹120"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
         },
-        "isBookmarked": false,
-        "gold": {
-            "instant": 20,
-            "welcome_offer": false,
-            "gold_offer": true,
-            "text": "Flat",
-            "offerValue": "20% OFF",
-            "isGoldIcon": true
-        }
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/irani-std-tea-6th-main-rd-indiranagar-bangalore-709119",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
     },
     {
-        "id": "21146027",
-        "type": "restaurant",
-        "name": "IZU",
-        "url": "https://www.zomato.com/bangalore/izu-shanti-nagar-bangalore?zrp_bid=0&zrp_pid=14",
-        "imageUrl": "https://b.zmtcdn.com/data/pictures/7/21146027/06eeb4d5559246348992bcca302bd4c8.jpg",
-        "subtitleData": {
+        "info": {
+            "id": "348811",
+            "name": "The Cubano Sandwich Co.",
+            "cloudinaryImageId": "10099994d51aaaa5bd92b253af10fcf4",
+            "locality": "6th Sector",
+            "areaName": "HSR Layout",
+            "costForTwo": "₹300 for two",
             "cuisines": [
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTYyXCJdfSJd",
-                    "url": "https://www.zomato.com/bangalore/restaurants/peruvian/",
-                    "name": "Peruvian"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNjBcIl19Il0%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/japanese/",
-                    "name": "Japanese"
-                }
+                "American",
+                "Salads",
+                "Beverages",
+                "Continental",
+                "Mexican"
             ],
-            "locality": {
-                "text": "Shanti Nagar, Bangalore",
-                "url": "https://www.zomato.com/bangalore/shanti-nagar-restaurants"
-            }
-        },
-        "proOfferText": "",
-        "rating": {
-            "has_fake_reviews": 0,
-            "aggregate_rating": "0",
-            "rating_text": "NEW",
-            "rating_subtitle": "Not rated",
-            "rating_color": "CBCBCB",
-            "votes": "0",
-            "subtext": "REVIEW",
-            "is_new": true
-        },
-        "rating_new": {
-            "newlyOpenedObj": {
-                "text": "Newly Opened",
-                "color": "#FFFFFF",
-                "bgColor": "#F4A266",
-                "bgColorV2": {
-                    "type": "green",
-                    "tint": "100"
-                },
-                "subtitle": "OUTLET",
-                "ratingV2": "New"
+            "avgRating": 4.4,
+            "parentId": "231098",
+            "avgRatingString": "4.4",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 54,
+                "lastMileTravel": 9.7,
+                "serviceability": "SERVICEABLE",
+                "slaString": "50-55 mins",
+                "lastMileTravelString": "9.7 km",
+                "iconType": "ICON_TYPE_EMPTY"
             },
-            "suspiciousReviewObj": null,
-            "ratings": {
-                "DINING": {
-                    "rating_type": "DINING",
-                    "rating": "",
-                    "reviewCount": "0",
-                    "reviewTextSmall": "0 Reviews",
-                    "subtext": "Does not offer Dining",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DINING",
-                    "sideSubTitle": "Dining Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDining": true
-                },
-                "DELIVERY": {
-                    "rating_type": "DELIVERY",
-                    "rating": "",
-                    "reviewCount": "0",
-                    "reviewTextSmall": "0 Reviews",
-                    "subtext": "Does not offer Delivery",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DELIVERY",
-                    "sideSubTitle": "Delivery Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDelivery": false
+            "availability": {
+                "nextCloseTime": "2024-05-12 00:00:00",
+                "opened": true
+            },
+            "badges": {
+                "textExtendedBadges": [
+                    {
+                        "iconId": "guiltfree/GF_Logo_android_3x",
+                        "shortDescription": "options available",
+                        "fontColor": "#7E808C"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "",
+                                    "fontColor": "#7E808C",
+                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                    "shortDescription": "options available"
+                                }
+                            }
+                        ]
+                    }
                 }
-            }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
         },
-        "isBookmarked": false
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/the-cubano-sandwich-co-6th-sector-hsr-layout-bangalore-348811",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
     },
     {
-        "id": "21111295",
-        "type": "restaurant",
-        "name": "Badmaash Sarjapur",
-        "url": "https://www.zomato.com/bangalore/badmaash-sarjapur-sarjapur-road-bangalore?zrp_bid=0&zrp_pid=14",
-        "imageUrl": "https://b.zmtcdn.com/data/pictures/5/21111295/5dcad74fc5f06a7bc39bcc4a866a63c1.jpg",
-        "subtitleData": {
+        "info": {
+            "id": "387468",
+            "name": "The Breakfast Nook",
+            "cloudinaryImageId": "3a26aa967dc44e104627a4b8a8117454",
+            "locality": "6th Sector",
+            "areaName": "HSR Layout",
+            "costForTwo": "₹300 for two",
             "cuisines": [
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-                    "url": "https://www.zomato.com/bangalore/restaurants/beverages/",
-                    "name": "Beverages"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/north-indian/",
-                    "name": "North Indian"
-                }
+                "American",
+                "Continental",
+                "Healthy Food",
+                "Beverages"
             ],
-            "locality": {
-                "text": "Sarjapur Road, Bangalore",
-                "url": "https://www.zomato.com/bangalore/sarjapur-road-restaurants"
-            }
-        },
-        "proOfferText": "",
-        "rating": {
-            "has_fake_reviews": 0,
-            "aggregate_rating": "3.8",
-            "rating_text": "NEW",
-            "rating_subtitle": "Good",
-            "rating_color": "9ACD32",
-            "votes": "4",
-            "subtext": "REVIEWS",
-            "is_new": true
-        },
-        "rating_new": {
-            "newlyOpenedObj": {
-                "text": "Newly Opened",
-                "color": "#FFFFFF",
-                "bgColor": "#F4A266",
-                "bgColorV2": {
-                    "type": "green",
-                    "tint": "100"
-                },
-                "subtitle": "OUTLET",
-                "ratingV2": "New"
+            "avgRating": 4.5,
+            "parentId": "257216",
+            "avgRatingString": "4.5",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 50,
+                "lastMileTravel": 9.7,
+                "serviceability": "SERVICEABLE",
+                "slaString": "45-50 mins",
+                "lastMileTravelString": "9.7 km",
+                "iconType": "ICON_TYPE_EMPTY"
             },
-            "suspiciousReviewObj": null,
-            "ratings": {
-                "DINING": {
-                    "rating_type": "DINING",
-                    "rating": "",
-                    "reviewCount": "4",
-                    "reviewTextSmall": "4 Reviews",
-                    "subtext": "Does not offer Dining",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DINING",
-                    "sideSubTitle": "Dining Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDining": true
-                },
-                "DELIVERY": {
-                    "rating_type": "DELIVERY",
-                    "rating": "",
-                    "reviewCount": "0",
-                    "reviewTextSmall": "0 Reviews",
-                    "subtext": "Does not offer Delivery",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DELIVERY",
-                    "sideSubTitle": "Delivery Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDelivery": false
+            "availability": {
+                "nextCloseTime": "2024-05-12 00:00:00",
+                "opened": true
+            },
+            "badges": {
+                "textExtendedBadges": [
+                    {
+                        "iconId": "guiltfree/GF_Logo_android_3x",
+                        "shortDescription": "options available",
+                        "fontColor": "#7E808C"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "",
+                                    "fontColor": "#7E808C",
+                                    "iconId": "guiltfree/GF_Logo_android_3x",
+                                    "shortDescription": "options available"
+                                }
+                            }
+                        ]
+                    }
                 }
-            }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
         },
-        "isBookmarked": false
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/the-breakfast-nook-6th-sector-hsr-layout-bangalore-387468",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
     },
     {
-        "id": "21154439",
-        "type": "restaurant",
-        "name": "Mangroove Retreat Dining",
-        "url": "https://www.zomato.com/bangalore/mangroove-retreat-dining-electronic-city-bangalore?zrp_bid=0&zrp_pid=14",
-        "imageUrl": "https://b.zmtcdn.com/data/pictures/9/21154439/e63bb84b4d8ded1cb7e0051802208c19.jpeg",
-        "subtitleData": {
+        "info": {
+            "id": "196047",
+            "name": "New Taj Darbar",
+            "cloudinaryImageId": "nfieyqgxk1omknxfbluj",
+            "locality": "Saint Mary's Church Road",
+            "areaName": "Shivajinagar",
+            "costForTwo": "₹300 for two",
             "cuisines": [
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/chinese/",
-                    "name": "Chinese"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/asian/",
-                    "name": "Asian"
-                }
+                "Biryani",
+                "Indian",
+                "Chinese",
+                "Tandoor",
+                "Seafood"
             ],
-            "locality": {
-                "text": "Electronic City, Bangalore",
-                "url": "https://www.zomato.com/bangalore/electronic-city-restaurants"
-            }
-        },
-        "proOfferText": "",
-        "rating": {
-            "has_fake_reviews": 0,
-            "aggregate_rating": "0",
-            "rating_text": "NEW",
-            "rating_subtitle": "Not rated",
-            "rating_color": "CBCBCB",
-            "votes": "2",
-            "subtext": "REVIEWS",
-            "is_new": true
-        },
-        "rating_new": {
-            "newlyOpenedObj": {
-                "text": "Newly Opened",
-                "color": "#FFFFFF",
-                "bgColor": "#F4A266",
-                "bgColorV2": {
-                    "type": "green",
-                    "tint": "100"
-                },
-                "subtitle": "OUTLET",
-                "ratingV2": "New"
+            "avgRating": 3.5,
+            "parentId": "148190",
+            "avgRatingString": "3.5",
+            "totalRatingsString": "10K+",
+            "sla": {
+                "deliveryTime": 54,
+                "lastMileTravel": 5.7,
+                "serviceability": "SERVICEABLE",
+                "slaString": "50-55 mins",
+                "lastMileTravelString": "5.7 km",
+                "iconType": "ICON_TYPE_EMPTY"
             },
-            "suspiciousReviewObj": null,
-            "ratings": {
-                "DINING": {
-                    "rating_type": "DINING",
-                    "rating": "",
-                    "reviewCount": "2",
-                    "reviewTextSmall": "2 Reviews",
-                    "subtext": "Does not offer Dining",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DINING",
-                    "sideSubTitle": "Dining Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDining": true
-                },
-                "DELIVERY": {
-                    "rating_type": "DELIVERY",
-                    "rating": "",
-                    "reviewCount": "0",
-                    "reviewTextSmall": "0 Reviews",
-                    "subtext": "Does not offer Delivery",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DELIVERY",
-                    "sideSubTitle": "Delivery Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDelivery": false
+            "availability": {
+                "nextCloseTime": "2024-05-12 00:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
                 }
-            }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "30% OFF",
+                "subHeader": "UPTO ₹75"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
         },
-        "isBookmarked": false
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/new-taj-darbar-saint-marys-church-road-shivajinagar-bangalore-196047",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
     },
     {
-        "id": "21152734",
-        "type": "restaurant",
-        "name": "Fireside: Flame Craft Dining",
-        "url": "https://www.zomato.com/bangalore/fireside-flame-craft-dining-kalyan-nagar-bangalore?zrp_bid=0&zrp_pid=14",
-        "imageUrl": "https://b.zmtcdn.com/data/pictures/4/21152734/a3401016c314e4714df299423a4317e3.jpg",
-        "subtitleData": {
+        "info": {
+            "id": "591223",
+            "name": "Bihar ki rasoi",
+            "cloudinaryImageId": "ypix1npwnnjjcb0tsipk",
+            "locality": "HAL 2nd Stage",
+            "areaName": "indiranagar/domlur",
+            "costForTwo": "₹1 for two",
             "cuisines": [
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/continental/",
-                    "name": "Continental"
-                }
+                "Indian",
+                "Chinese",
+                "Thalis"
             ],
-            "locality": {
-                "text": "Kalyan Nagar, Bangalore",
-                "url": "https://www.zomato.com/bangalore/kalyan-nagar-restaurants"
-            }
-        },
-        "proOfferText": "",
-        "rating": {
-            "has_fake_reviews": 0,
-            "aggregate_rating": "0",
-            "rating_text": "NEW",
-            "rating_subtitle": "Not rated",
-            "rating_color": "CBCBCB",
-            "votes": "1",
-            "subtext": "REVIEW",
-            "is_new": true
-        },
-        "rating_new": {
-            "newlyOpenedObj": {
-                "text": "Newly Opened",
-                "color": "#FFFFFF",
-                "bgColor": "#F4A266",
-                "bgColorV2": {
-                    "type": "green",
-                    "tint": "100"
-                },
-                "subtitle": "OUTLET",
-                "ratingV2": "New"
+            "avgRating": 4.2,
+            "parentId": "45749",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "500+",
+            "sla": {
+                "deliveryTime": 50,
+                "lastMileTravel": 9.5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "50-55 mins",
+                "lastMileTravelString": "9.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
             },
-            "suspiciousReviewObj": null,
-            "ratings": {
-                "DINING": {
-                    "rating_type": "DINING",
-                    "rating": "",
-                    "reviewCount": "1",
-                    "reviewTextSmall": "1 Reviews",
-                    "subtext": "Does not offer Dining",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DINING",
-                    "sideSubTitle": "Dining Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDining": true
-                },
-                "DELIVERY": {
-                    "rating_type": "DELIVERY",
-                    "rating": "",
-                    "reviewCount": "0",
-                    "reviewTextSmall": "0 Reviews",
-                    "subtext": "Does not offer Delivery",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DELIVERY",
-                    "sideSubTitle": "Delivery Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDelivery": false
+            "availability": {
+                "nextCloseTime": "2024-05-12 00:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
                 }
-            }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "20% OFF",
+                "subHeader": "UPTO ₹50"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
         },
-        "isBookmarked": false
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/bihar-ki-rasoi-hal-2nd-stage-indiranagar-domlur-bangalore-591223",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
     },
     {
-        "id": "21148125",
-        "type": "restaurant",
-        "name": "The Coffee Brewery",
-        "url": "https://www.zomato.com/bangalore/the-coffee-brewery-1-whitefield-bangalore?zrp_bid=0&zrp_pid=14",
-        "imageUrl": "https://b.zmtcdn.com/data/pictures/5/21148125/a9b67efd7c243567910868b3e4930038_o2_featured_v2.jpg",
-        "subtitleData": {
+        "info": {
+            "id": "224603",
+            "name": "The Khichadi Factory",
+            "cloudinaryImageId": "elipl1grofzs5pwiz7go",
+            "locality": "Binnamangala",
+            "areaName": "Indiranagar",
+            "costForTwo": "₹300 for two",
             "cuisines": [
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/cafes/",
-                    "name": "Cafe"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/coffee/",
-                    "name": "Coffee"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
-                    "url": "https://www.zomato.com/bangalore/restaurants/sandwich/",
-                    "name": "Sandwich"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/continental/",
-                    "name": "Continental"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/fast-food/",
-                    "name": "Fast Food"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
-                    "url": "https://www.zomato.com/bangalore/restaurants/desserts/",
-                    "name": "Desserts"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
-                    "url": "https://www.zomato.com/bangalore/restaurants/shake/",
-                    "name": "Shake"
-                },
-                {
-                    "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-                    "url": "https://www.zomato.com/bangalore/restaurants/beverages/",
-                    "name": "Beverages"
-                }
+                "North Indian"
             ],
-            "locality": {
-                "text": "Whitefield, Bangalore",
-                "url": "https://www.zomato.com/bangalore/whitefield-restaurants"
-            }
-        },
-        "proOfferText": "",
-        "rating": {
-            "has_fake_reviews": 0,
-            "aggregate_rating": "0",
-            "rating_text": "NEW",
-            "rating_subtitle": "Not rated",
-            "rating_color": "CBCBCB",
-            "votes": "0",
-            "subtext": "REVIEW",
-            "is_new": true
-        },
-        "rating_new": {
-            "newlyOpenedObj": {
-                "text": "Newly Opened",
-                "color": "#FFFFFF",
-                "bgColor": "#F4A266",
-                "bgColorV2": {
-                    "type": "green",
-                    "tint": "100"
-                },
-                "subtitle": "OUTLET",
-                "ratingV2": "New"
+            "avgRating": 4.3,
+            "veg": true,
+            "parentId": "210489",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "1K+",
+            "sla": {
+                "deliveryTime": 61,
+                "lastMileTravel": 9.3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "60-65 mins",
+                "lastMileTravelString": "9.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
             },
-            "suspiciousReviewObj": null,
-            "ratings": {
-                "DINING": {
-                    "rating_type": "DINING",
-                    "rating": "",
-                    "reviewCount": "0",
-                    "reviewTextSmall": "0 Reviews",
-                    "subtext": "Does not offer Dining",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DINING",
-                    "sideSubTitle": "Dining Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
+            "availability": {
+                "nextCloseTime": "2024-05-12 00:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "v1695133679/badges/Pure_Veg111.png",
+                        "description": "pureveg"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "pureveg",
+                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                            }
+                        ]
                     },
-                    "newOnDining": true
-                },
-                "DELIVERY": {
-                    "rating_type": "DELIVERY",
-                    "rating": "",
-                    "reviewCount": "0",
-                    "reviewTextSmall": "0 Reviews",
-                    "subtext": "New on Delivery",
-                    "color": "",
-                    "ratingV2": "-",
-                    "subtitle": "DELIVERY",
-                    "sideSubTitle": "Delivery Ratings",
-                    "bgColorV2": {
-                        "type": "grey",
-                        "tint": "500"
-                    },
-                    "newOnDelivery": true
+                    "textBased": {},
+                    "textExtendedBadges": {}
                 }
-            }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100"
+            },
+            "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {}
         },
-        "isBookmarked": false
+        "analytics": {},
+        "cta": {
+            "link": "https://www.swiggy.com/restaurants/the-khichadi-factory-binnamangala-indiranagar-bangalore-224603",
+            "text": "RESTAURANT_MENU",
+            "type": "WEBLINK"
+        },
+        "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
     }
 ];
 
